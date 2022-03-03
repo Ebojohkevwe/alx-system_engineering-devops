@@ -1,1 +1,1 @@
-Creating different directories simultaneously
+Listing all files in a directory seperated by a comma
