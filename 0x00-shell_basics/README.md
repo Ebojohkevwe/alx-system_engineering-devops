@@ -1,1 +1,1 @@
-What's in there?
+Changing the current directory to the home directory
