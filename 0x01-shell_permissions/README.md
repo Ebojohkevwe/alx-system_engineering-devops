@@ -1,1 +1,1 @@
-display the groups a current user is in
+changing file ownership
