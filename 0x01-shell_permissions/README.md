@@ -1,1 +1,1 @@
-Dispaly the username of the current user
+display the groups a current user is in
