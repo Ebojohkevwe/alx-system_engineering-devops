@@ -1,1 +1,1 @@
-Deleting all files in the current directory
+Creating different directories simultaneously
